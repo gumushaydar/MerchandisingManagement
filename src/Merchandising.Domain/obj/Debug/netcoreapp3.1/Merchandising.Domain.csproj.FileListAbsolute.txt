@@ -1,0 +1,9 @@
+C:\repos\CleanArchitecture.Merchandising\src\Merchandising.Domain\bin\Debug\netcoreapp3.1\Merchandising.Domain.deps.json
+C:\repos\CleanArchitecture.Merchandising\src\Merchandising.Domain\bin\Debug\netcoreapp3.1\Merchandising.Domain.dll
+C:\repos\CleanArchitecture.Merchandising\src\Merchandising.Domain\bin\Debug\netcoreapp3.1\Merchandising.Domain.pdb
+C:\repos\CleanArchitecture.Merchandising\src\Merchandising.Domain\obj\Debug\netcoreapp3.1\Merchandising.Domain.csprojAssemblyReference.cache
+C:\repos\CleanArchitecture.Merchandising\src\Merchandising.Domain\obj\Debug\netcoreapp3.1\Merchandising.Domain.AssemblyInfoInputs.cache
+C:\repos\CleanArchitecture.Merchandising\src\Merchandising.Domain\obj\Debug\netcoreapp3.1\Merchandising.Domain.AssemblyInfo.cs
+C:\repos\CleanArchitecture.Merchandising\src\Merchandising.Domain\obj\Debug\netcoreapp3.1\Merchandising.Domain.csproj.CoreCompileInputs.cache
+C:\repos\CleanArchitecture.Merchandising\src\Merchandising.Domain\obj\Debug\netcoreapp3.1\Merchandising.Domain.dll
+C:\repos\CleanArchitecture.Merchandising\src\Merchandising.Domain\obj\Debug\netcoreapp3.1\Merchandising.Domain.pdb

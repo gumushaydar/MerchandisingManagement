@@ -1,0 +1,12 @@
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\bin\Debug\netcoreapp3.1\Merchandising.Domain.dll
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\obj\Debug\netcoreapp3.1\Merchandising.Application.AssemblyInfoInputs.cache
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\obj\Debug\netcoreapp3.1\Merchandising.Application.AssemblyInfo.cs
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\bin\Debug\netcoreapp3.1\Merchandising.Application.deps.json
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\bin\Debug\netcoreapp3.1\Merchandising.Application.dll
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\bin\Debug\netcoreapp3.1\Merchandising.Application.pdb
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\bin\Debug\netcoreapp3.1\Merchandising.Domain.pdb
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\obj\Debug\netcoreapp3.1\Merchandising.Application.csprojAssemblyReference.cache
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\obj\Debug\netcoreapp3.1\Merchandising.Application.csproj.CopyComplete
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\obj\Debug\netcoreapp3.1\Merchandising.Application.dll
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\obj\Debug\netcoreapp3.1\Merchandising.Application.pdb
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Application\obj\Debug\netcoreapp3.1\Merchandising.Application.csproj.CoreCompileInputs.cache

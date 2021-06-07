@@ -1,0 +1,17 @@
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\bin\Debug\netcoreapp3.1\Merchandising.Infrastructure.deps.json
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\bin\Debug\netcoreapp3.1\Merchandising.Infrastructure.dll
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\obj\Debug\netcoreapp3.1\Merchandising.Infrastructure.AssemblyInfoInputs.cache
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\obj\Debug\netcoreapp3.1\Merchandising.Infrastructure.AssemblyInfo.cs
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\obj\Debug\netcoreapp3.1\Merchandising.Infrastructure.csprojAssemblyReference.cache
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\bin\Debug\netcoreapp3.1\Merchandising.Application.dll
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\bin\Debug\netcoreapp3.1\Merchandising.Domain.dll
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\bin\Debug\netcoreapp3.1\Merchandising.Infrastructure.pdb
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\bin\Debug\netcoreapp3.1\Merchandising.Application.pdb
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\bin\Debug\netcoreapp3.1\Merchandising.Domain.pdb
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\obj\Debug\netcoreapp3.1\Merchandising.Infrastructure.csproj.CopyComplete
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\obj\Debug\netcoreapp3.1\Merchandising.Infrastructure.dll
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\obj\Debug\netcoreapp3.1\Merchandising.Infrastructure.pdb
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\bin\Debug\netcoreapp3.1\Merchandising.Infrastructure.runtimeconfig.json
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\bin\Debug\netcoreapp3.1\Merchandising.Infrastructure.runtimeconfig.dev.json
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\obj\Debug\netcoreapp3.1\Merchandising.Infrastructure.csproj.CoreCompileInputs.cache
+C:\repos\CleanArchitecture.Merchandising\Merchandising.Infrastructure\obj\Debug\netcoreapp3.1\Merchandising.Infrastructure.genruntimeconfig.cache
